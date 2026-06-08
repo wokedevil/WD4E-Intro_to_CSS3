@@ -1,4 +1,31 @@
 body{
-  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  font-size: 150%;
+  font-family:'Papyrus', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 100%;
+}
+header{
+  background-color: #8ccc97;
+}
+nav{
+  background-color: #83b087;
+  a{
+    color: #ffffff;
+  }
+}
+main{
+  background-color: #5ddd72;
+  font-size: 120%;
+}
+footer{
+  background-color: #83b087;
+}
+li{
+  color: #004800;
+}
+h1{
+  color: #012401;
+  text-align: center;
+  font-family: 'Cooper';
+}
+p{
+  line-height: 1.5;
 }
