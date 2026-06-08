@@ -18,7 +18,8 @@ main{
 footer{
   background-color: #cceecf;
   a{
-    color: #ff0000;
+    color: #000000;
+    font-weight: bold;
   }
 }
 li{
