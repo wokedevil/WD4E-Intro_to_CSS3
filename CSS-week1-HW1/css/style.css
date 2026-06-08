@@ -8,7 +8,7 @@ header{
 nav{
   background-color: #83b087;
   a{
-    color: #ffffff;
+    color: #000000;
   }
 }
 main{
@@ -17,6 +17,9 @@ main{
 }
 footer{
   background-color: #83b087;
+  a{
+    color: #ff0000;
+  }
 }
 li{
   color: #004800;
